@@ -1,81 +1,72 @@
 import React from "react";
-import './Footer.css'
-import fb from "../Img/Logo-Facebook.png"
-import twitter from "../Img/Logo-Twitter.png"
-import insta from "../Img/Logo-Instagram.webp"
-import linkedin from "../Img/Logo-Linkedin.png"
+import "./Footer.css";
+import fb from "../Img/Logo-Facebook.png";
+import twitter from "../Img/Logo-Twitter.png";
+import insta from "../Img/Logo-Instagram.webp";
+import linkedin from "../Img/Logo-Linkedin.png";
 
 const Footer = () => {
     return (
-        <div className="footer">
-            <div className="sb_footer section_padding">
-                <div className="sb_footer-links">
-                    <div className="sb_footer-links-div">
-                        <h4>for business</h4>
-                        <a href="/employer">
-                            <p>Employer</p>
-                        </a>
-                        <a href="/Health Plan">
-                            <p>Health Plan</p>
-                        </a>
-                        <a href="/individual">
-                            <p>individual</p>
-                        </a>
-                        <div className="sb_fotter-links_div">
-                            <h4>for business</h4>
-                            <a href="/resource">
-                                <p>Resource center</p>
-                            </a>
-                            <a href="/resource">
-                                <p>Testimonials</p>
-                            </a>
-                            <a href="/resource">
-                                <p>STV</p>
-                            </a>
-                        </div>
-                        <div className="sb_footer-links_div">
-                            <h4>Partners</h4>
-                            <a href="/about">
-                                <p>About</p>
-                            </a>
-                            <a href="/Press">
-                                <p>Press</p>
-                            </a>
-                            <a href="/career">
-                                <p>Contact</p>
-                            </a>
-                        </div>
-                        <div className="sb_footer-links_div">
-                            <h4>Coming soon on</h4>
-                            <div className="socialmedia">
-                                <p><img src={fb} alt="" /></p>
-                                <p><img src={twitter} alt="" /></p>
-                                <p><img src={linkedin} alt="" /></p>
-                                <p><img src={insta} alt="" /></p>
+        <div className="container">
+            <footer className="py-5">
+                <div className="row">
+                    <div className="col-6 col-md-2 mb-3">
+                        <h5>Section</h5>
+                        <ul className="nav flex-column">
+                            <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted">Home</a></li>
+                            <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted">Features</a></li>
+                            <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted">Pricing</a></li>
+                            <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted">FAQs</a></li>
+                            <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted">About</a></li>
+                        </ul>
+                    </div>
+
+                    <div className="col-6 col-md-2 mb-3">
+                        <h5>Section</h5>
+                        <ul className="nav flex-column">
+                            <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted">Home</a></li>
+                            <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted">Features</a></li>
+                            <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted">Pricing</a></li>
+                            <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted">FAQs</a></li>
+                            <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted">About</a></li>
+                        </ul>
+                    </div>
+
+                    <div className="col-6 col-md-2 mb-3">
+                        <h5>Section</h5>
+                        <ul className="nav flex-column">
+                            <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted">Home</a></li>
+                            <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted">Features</a></li>
+                            <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted">Pricing</a></li>
+                            <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted">FAQs</a></li>
+                            <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted">About</a></li>
+                        </ul>
+                    </div>
+
+                    <div className="col-md-5 offset-md-1 mb-3">
+                        <form>
+                            <h5>Subscribe to our newsletter</h5>
+                            <p>Monthly digest of what's new and exciting from us.</p>
+                            <div className="d-flex flex-column flex-sm-row w-100 gap-2">
+                                <label for="newsletter1" className="visually-hidden">Email address</label>
+                                <input id="newsletter1" type="text" className="form-control" placeholder="Email address" />
+                                <button className="btn btn-primary" type="button">Subscribe</button>
                             </div>
-                        </div>
+                        </form>
                     </div>
                 </div>
 
-                <hr></hr>
-
-                <div className="sb_footer-below">
-                    <div className="sb_footer-copyright">
-                        <p>
-                            @{new Date().getFullYear()} codeinn. all right reserved.
-                        </p>
-                    </div>
-                    <div className="sb_footer-below-links">
-                        <a href="/terms"><div><p>Terms & conditions</p></div></a>
-                        <a href="/privacy"><div><p>Privacy</p></div></a>
-                        <a href="/security"><div><p>Security</p></div></a>
-                        <a href="/cookie"><div><p>Cookie Declarations</p></div></a>
-                    </div>
+                <div className="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
+                    <p>&copy; 2022 Company, Inc. All rights reserved.</p>
+                    <ul className="list-unstyled d-flex">
+                        <li className="ms-3"><a className="link-dark" href="#"><svg className="bi" width="24" height="24"><use xlink: href="#twitter" /></svg></a></li>
+                        <li className="ms-3"><a className="link-dark" href="#"><svg className="bi" width="24" height="24"><use xlink: href="#instagram" /></svg></a></li>
+                        <li className="ms-3"><a className="link-dark" href="#"><svg className="bi" width="24" height="24"><use xlink: href="#facebook" /></svg></a></li>
+                    </ul>
                 </div>
-
-            </div>
+            </footer>
         </div>
     )
 }
 
-export default Footer
+export default Footer;
