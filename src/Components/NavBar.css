@@ -1,0 +1,8 @@
+.navbar_container{
+
+    background-color: #838383 ;
+}
+.btn-outline-success{
+    --bs-btn-color: #000000;
+    --bs-btn-border-color: #ffffff00;
+}
