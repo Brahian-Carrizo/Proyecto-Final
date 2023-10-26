@@ -1,4 +1,4 @@
-import Navbar from "../Components/Navbar"
+
 import "../Components/Body.css"
 
 const Inicio = () => {
