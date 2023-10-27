@@ -1,8 +1,7 @@
 
 .Card__div{
     width: 18rem;
-    margin-top: 2rem;
-    margin-right: 2rem;
+    margin: 1rem;
 } 
 .Card__Conteiner  {
     display: flex;
