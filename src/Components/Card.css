@@ -1,0 +1,22 @@
+
+.Card__div{
+    width: 18rem;
+    margin-top: 2rem;
+    margin-right: 2rem;
+} 
+.Card__Conteiner  {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    text-align: left;
+    margin-bottom: 2rem;
+}
+.Card__Paddig{
+    padding: 1rem 4rem
+}
+.card-img-top {
+    padding: 1rem;
+}
