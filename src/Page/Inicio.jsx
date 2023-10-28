@@ -1,12 +1,10 @@
-
-import "../Components/Body.css"
+import ProducCard from "../Components/Card";
 
 const Inicio = () => {
     return (
         <>
-            <div className="body_Ejemp">
 
-            </div>
+            <ProducCard/>
         </>
     )
 }

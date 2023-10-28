@@ -13,7 +13,6 @@ function AppRouter() {
             <Navbar />
             <Routes>
                 <Route path="" element={<Inicio />} />
-                <Route path="/ProducCard" element={<ProducCard />} />
                 <Route path="/Registro" element={<Registro />} />
                 <Route path="/QuinesSomos" element={<QuinesSomos />} />
                 <Route path="/Contacto" element={<Contacto/>} />
