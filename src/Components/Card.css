@@ -19,3 +19,9 @@
 .card-img-top {
     padding: 1rem;
 }
+.Button__push{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 1rem;
+}

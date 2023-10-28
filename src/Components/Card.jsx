@@ -9,64 +9,123 @@ const ProducCard = () => {
                     <div className="card Card__div" >
                         <img src={PlacaDeVIdeoRx5700} className="card-img-top" alt="..." />
                         <div className="card-body">
+                            <h3 className="card-text">Titulo</h3>
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5>Price</h5>
+                            <div className="Button__push">
+                                <button type="button" class="btn btn-primary">Primary</button>
+                                <button type="button" class="btn btn-secondary">Secondary</button>
+                            </div>
                         </div>
                     </div>
                     <div className="card Card__div" >
                         <img src={PlacaDeVIdeoRx5700} className="card-img-top" alt="..." />
                         <div className="card-body">
+                            <h3 className="card-text">Titulo</h3>
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            
+                            <h5>Price</h5>
+                            <div className="Button__push">
+                                <button type="button" class="btn btn-primary">Primary</button>
+                                <button type="button" class="btn btn-secondary">Secondary</button>
+                            </div>
                         </div>
-                    </div>
+                    </div> 
                     <div className="card Card__div" >
                         <img src={PlacaDeVIdeoRx5700} className="card-img-top" alt="..." />
                         <div className="card-body">
+                            <h3 className="card-text">Titulo</h3>
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5>Price</h5>
+                            <div className="Button__push">
+                                <button type="button" class="btn btn-primary">Primary</button>
+                                <button type="button" class="btn btn-secondary">Secondary</button>
+                            </div>
                         </div>
-                    </div>
+                    </div> 
                     <div className="card Card__div" >
                         <img src={PlacaDeVIdeoRx5700} className="card-img-top" alt="..." />
                         <div className="card-body">
+                            <h3 className="card-text">Titulo</h3>
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5>Price</h5>
+                            <div className="Button__push">
+                                <button type="button" class="btn btn-primary">Primary</button>
+                                <button type="button" class="btn btn-secondary">Secondary</button>
+                            </div>
                         </div>
-                    </div>
+                    </div> 
                     <div className="card Card__div" >
                         <img src={PlacaDeVIdeoRx5700} className="card-img-top" alt="..." />
                         <div className="card-body">
+                            <h3 className="card-text">Titulo</h3>
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5>Price</h5>
+                            <div className="Button__push">
+                                <button type="button" class="btn btn-primary">Primary</button>
+                                <button type="button" class="btn btn-secondary">Secondary</button>
+                            </div>
                         </div>
-                    </div>
+                    </div> 
                     <div className="card Card__div" >
                         <img src={PlacaDeVIdeoRx5700} className="card-img-top" alt="..." />
                         <div className="card-body">
+                            <h3 className="card-text">Titulo</h3>
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5>Price</h5>
+                            <div className="Button__push">
+                                <button type="button" class="btn btn-primary">Primary</button>
+                                <button type="button" class="btn btn-secondary">Secondary</button>
+                            </div>
                         </div>
-                    </div>
+                    </div> 
                     <div className="card Card__div" >
                         <img src={PlacaDeVIdeoRx5700} className="card-img-top" alt="..." />
                         <div className="card-body">
+                            <h3 className="card-text">Titulo</h3>
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5>Price</h5>
+                            <div className="Button__push">
+                                <button type="button" class="btn btn-primary">Primary</button>
+                                <button type="button" class="btn btn-secondary">Secondary</button>
+                            </div>
                         </div>
-                    </div>
+                    </div> 
                     <div className="card Card__div" >
                         <img src={PlacaDeVIdeoRx5700} className="card-img-top" alt="..." />
                         <div className="card-body">
+                            <h3 className="card-text">Titulo</h3>
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5>Price</h5>
+                            <div className="Button__push">
+                                <button type="button" class="btn btn-primary">Primary</button>
+                                <button type="button" class="btn btn-secondary">Secondary</button>
+                            </div>
                         </div>
-                    </div>
+                    </div> 
                     <div className="card Card__div" >
                         <img src={PlacaDeVIdeoRx5700} className="card-img-top" alt="..." />
                         <div className="card-body">
+                            <h3 className="card-text">Titulo</h3>
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5>Price</h5>
+                            <div className="Button__push">
+                                <button type="button" class="btn btn-primary">Primary</button>
+                                <button type="button" class="btn btn-secondary">Secondary</button>
+                            </div>
                         </div>
-                    </div>
+                    </div> 
                     <div className="card Card__div" >
                         <img src={PlacaDeVIdeoRx5700} className="card-img-top" alt="..." />
                         <div className="card-body">
+                            <h3 className="card-text">Titulo</h3>
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5>Price</h5>
+                            <div className="Button__push">
+                                <button type="button" class="btn btn-primary">Primary</button>
+                                <button type="button" class="btn btn-secondary">Secondary</button>
+                            </div>
                         </div>
-                    </div>                  
+                    </div>            
                 </div>
             </div>
         </>
