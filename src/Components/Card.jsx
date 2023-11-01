@@ -13,8 +13,8 @@ const ProducCard = () => {
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
                             <h5>Price</h5>
                             <div className="Button__push">
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <button type="button" class="btn btn-secondary">Secondary</button>
+                                <button type="button" class="btn btn-primary">Pujar</button>
+                                <button type="button" class="btn btn-secondary">Guardar</button>
                             </div>
                         </div>
                     </div>
@@ -25,8 +25,8 @@ const ProducCard = () => {
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
                             <h5>Price</h5>
                             <div className="Button__push">
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <button type="button" class="btn btn-secondary">Secondary</button>
+                                <button type="button" class="btn btn-primary">Pujar</button>
+                                <button type="button" class="btn btn-secondary">Guardar</button>
                             </div>
                         </div>
                     </div> 
@@ -37,8 +37,8 @@ const ProducCard = () => {
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
                             <h5>Price</h5>
                             <div className="Button__push">
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <button type="button" class="btn btn-secondary">Secondary</button>
+                                <button type="button" class="btn btn-primary">Pujar</button>
+                                <button type="button" class="btn btn-secondary">Guardar</button>
                             </div>
                         </div>
                     </div> 
@@ -49,8 +49,8 @@ const ProducCard = () => {
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
                             <h5>Price</h5>
                             <div className="Button__push">
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <button type="button" class="btn btn-secondary">Secondary</button>
+                                <button type="button" class="btn btn-primary">Pujar</button>
+                                <button type="button" class="btn btn-secondary">Guardar</button>
                             </div>
                         </div>
                     </div> 
@@ -61,8 +61,8 @@ const ProducCard = () => {
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
                             <h5>Price</h5>
                             <div className="Button__push">
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <button type="button" class="btn btn-secondary">Secondary</button>
+                                <button type="button" class="btn btn-primary">Pujar</button>
+                                <button type="button" class="btn btn-secondary">Guardar</button>
                             </div>
                         </div>
                     </div> 
@@ -73,8 +73,8 @@ const ProducCard = () => {
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
                             <h5>Price</h5>
                             <div className="Button__push">
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <button type="button" class="btn btn-secondary">Secondary</button>
+                                <button type="button" class="btn btn-primary">Pujar</button>
+                                <button type="button" class="btn btn-secondary">Guardar</button>
                             </div>
                         </div>
                     </div> 
@@ -85,8 +85,8 @@ const ProducCard = () => {
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
                             <h5>Price</h5>
                             <div className="Button__push">
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <button type="button" class="btn btn-secondary">Secondary</button>
+                                <button type="button" class="btn btn-primary">Pujar</button>
+                                <button type="button" class="btn btn-secondary">Guardar</button>
                             </div>
                         </div>
                     </div> 
@@ -97,8 +97,8 @@ const ProducCard = () => {
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
                             <h5>Price</h5>
                             <div className="Button__push">
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <button type="button" class="btn btn-secondary">Secondary</button>
+                                <button type="button" class="btn btn-primary">Pujar</button>
+                                <button type="button" class="btn btn-secondary">Guardar</button>
                             </div>
                         </div>
                     </div> 
@@ -109,8 +109,8 @@ const ProducCard = () => {
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
                             <h5>Price</h5>
                             <div className="Button__push">
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <button type="button" class="btn btn-secondary">Secondary</button>
+                                <button type="button" class="btn btn-primary">Pujar</button>
+                                <button type="button" class="btn btn-secondary">Guardar</button>
                             </div>
                         </div>
                     </div> 
@@ -121,8 +121,8 @@ const ProducCard = () => {
                             <p className="card-text"> quick example text to build on the card title and make up the bulk of the card's content.</p>
                             <h5>Price</h5>
                             <div className="Button__push">
-                                <button type="button" class="btn btn-primary">Primary</button>
-                                <button type="button" class="btn btn-secondary">Secondary</button>
+                                <button type="button" class="btn btn-primary">Pujar</button>
+                                <button type="button" class="btn btn-secondary">Guardar</button>
                             </div>
                         </div>
                     </div>            

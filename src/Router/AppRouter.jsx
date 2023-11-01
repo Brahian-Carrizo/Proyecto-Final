@@ -5,7 +5,6 @@ import Contacto from "../Page/Contacto";
 import Inicio from "../Page/Inicio";
 import QuinesSomos from "../Page/QuienesSomos";
 import Registro from "../Page/Registrarse";
-import ProducCard from "../Components/Card";
 
 function AppRouter() {
     return (

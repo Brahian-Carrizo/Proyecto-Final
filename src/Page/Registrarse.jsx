@@ -5,7 +5,7 @@ const Registro = () => {
         <>
             <main className="Conteiner__Sign_in w-100 m-auto">
                 <form>
-                    <hr className="hr_boder"/>
+                    <hr className="hr_boder" />
                     <h1 className="h3 mb-3 fw-normal">Please sign in</h1>
                     <div className="form-floating">
                         <input type="email" className="form-control" id="floatingInput" placeholder="name@example.com" />
@@ -20,8 +20,10 @@ const Registro = () => {
                         <label className="form-check-label" for="flexCheckDefault">Remember me</label>
                     </div>
                     <button className="btn btn-primary w-100 py-2" type="submit">Sign in</button>
-                    <p className="mt-5 mb-3 text-body-secondary">&copy; 2017_2023</p>
-                    <hr className="hr_boder"/>
+                    <p className="mt-5 mb-3 text-body-secondary">
+                        @{new Date().getFullYear()} 
+                    </p>
+                    <hr className="hr_boder" />
                 </form>
             </main>
         </>
