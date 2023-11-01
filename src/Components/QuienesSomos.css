@@ -1,0 +1,22 @@
+.sb__QuinesSomos-links_div{
+    width: 150px;
+    margin: 1rem;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    color: white;
+}
+.Social__QuienesSomos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.Social__QuienesSomos img{
+    width: 25px;
+}
+.Equipo__QuienesSomos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+}

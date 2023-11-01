@@ -1,5 +1,6 @@
-import "../Components/Body.css"
-import "../Components/Registro.css"
+import "../Components/Body.css";
+import "../Components/Registro.css";
+
 const Registro = () => {
     return (
         <>
