@@ -1,6 +1,6 @@
 import "../Components/Body.css"
 
-const  Contacto = () => {
+export default function Contact ()  {
     return (
         <>
             <div className="body_Ejemp">
@@ -8,6 +8,4 @@ const  Contacto = () => {
             </div>
         </>
     )
-}
-
-export default Contacto;
+};
