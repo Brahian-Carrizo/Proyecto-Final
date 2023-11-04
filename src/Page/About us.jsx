@@ -1,16 +1,16 @@
-import "../Components/QuienesSomos.css"
+import "../Components/AboutAs.css"
 import PlacaDeVIdeoRx5700 from "../Img/Placa_De_video_Rx5700.jpg"
 import fb from "../Img/Logo-Facebook.png"
 import twitter from "../Img/Logo-Twitter.png"
 import insta from "../Img/Logo-Instagram.webp"
 import linkedin from "../Img/Logo-Linkedin.png"
 
-const QuinesSomos = () => {
+export default function Aboutus () {
     return (
         <>
             <div className="Equipo__QuienesSomos">
                 <h2>
-                    Quienes Somos
+                    About us    
                 </h2>
                 <p>
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus praesentium deleniti quas accusamus rem quam tempora iusto quidem. 
@@ -47,6 +47,4 @@ const QuinesSomos = () => {
             </div>
         </>
     )
-}
-
-export default QuinesSomos;
+};

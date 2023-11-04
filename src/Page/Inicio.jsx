@@ -1,7 +1,7 @@
 import ProducCard from "../Components/Card";
 import Carousel from "../Components/Carousel";
 
-const Inicio = () => {
+export default function Inicio () {
     return (
         <>
             <Carousel/>
@@ -10,4 +10,3 @@ const Inicio = () => {
     )
 }
 
-export default Inicio;

@@ -1,7 +1,7 @@
 import "../Components/Body.css";
-import "../Components/Registro.css";
+import "../Components/Login.css";
 
-const Registro = () => {
+export default function Registro () {
     return (
         <>
             <main className="Conteiner__Sign_in w-100 m-auto">
@@ -29,6 +29,4 @@ const Registro = () => {
             </main>
         </>
     )
-}
-
-export default Registro;
+};
